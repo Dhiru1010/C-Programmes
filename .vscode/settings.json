@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "terminal.integrated.allowMnemonics": true,
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
